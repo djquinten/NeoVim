@@ -20,6 +20,21 @@ return {
           "TelescopePromptNormal", -- Telescope prompt window
           "TelescopeResultsNormal", -- Telescope results
           "TelescopePreviewNormal", -- Telescope preview
+          "BufferLineTabClose", -- Bufferline tabs
+          "BufferLineFill",
+          "BufferLineBackground",
+          "BufferLineSeparator",
+          "BufferLineIndicatorSelected",
+          "BufferLineTab",
+          "BufferLineTabSelected",
+          "BufferLineBufferVisible",
+          "BufferLineBufferSelected",
+          "BufferLineCloseButton",
+          "BufferLineCloseButtonVisible",
+          "BufferLineCloseButtonSelected",
+          "BufferLineModified",
+          "BufferLineModifiedVisible",
+          "BufferLineModifiedSelected",
         },
             exclude_groups = {}, -- Groups to exclude from clearing
         })
