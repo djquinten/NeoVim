@@ -15,5 +15,3 @@ keymap.set("n", "<leader>tt", "<cmd>tabnew<CR>", { desc = "Open new tab" })
 keymap.set("n", "<leader>tw", "<cmd>tabclose<CR>", { desc = "Close current tab" })
 keymap.set("n", "<leader>1", "<cmd>tabp<CR>", { desc = "Go to previous tab" })
 keymap.set("n", "<leader>2", "<cmd>tabn<CR>", { desc = "Go to next tab" })
-
-keymap.set("n", "<leader>b", ":Explore<CR>", { desc = "Open explorer" })
